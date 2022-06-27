@@ -4,7 +4,7 @@ Extension for making fun of your friends by changing all images in their chrome 
 Installation Instructions
 Google Chrome
 
-1. Download this repository as zip file from GitHub.
+1. Download this repository as a zip file from GitHub.
 2. Unzip the file 
 3. Type into address bar the following: chrome://extensions/
 4. Enable developer mode
