@@ -8,5 +8,6 @@ Google Chrome
 2. Unzip the file 
 3. Type into address bar the following: chrome://extensions/
 4. Enable developer mode
-5. Choose the folder of the unzipped file
-6. Wait for reaction of your friends :D
+5. Click "Load unpacked" button
+6. Choose the folder of the unzipped file
+7. Wait for reaction of your friends :D
