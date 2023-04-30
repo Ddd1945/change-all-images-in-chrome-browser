@@ -11,3 +11,5 @@ Google Chrome
 5. Click "Load unpacked" button
 6. Choose the folder of the unzipped file
 7. Wait for reaction of your friends :D
+
+P.S. Please, support me - https://ko-fi.com/dendyy1945 if my projects was helpful for you
