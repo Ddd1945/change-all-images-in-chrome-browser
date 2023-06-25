@@ -12,4 +12,4 @@ Google Chrome
 6. Choose the folder of the unzipped file
 7. Wait for reaction of your friends :D
 
-### <i>P. S. Please, support me - https://ko-fi.com/dendyy1945 if this project was helpful for you</i>
+# <i>P. S. Please, support me - https://ko-fi.com/dendyy1945, subscribe, and give a star to this project if it was helpful for you</i>.
